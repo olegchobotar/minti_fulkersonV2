@@ -1,5 +1,5 @@
 {
-  "name": "minti_fulkerson",
+  "name": "minti_fulkersonV2",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://olegchobotar.github.io/minti_fulkerson",
@@ -9,6 +9,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "minti_fulkerson": "0.1.0",
     "babel-cli": "^6.22.2",
     "babel-core": "^6.22.1",
     "babel-loader": "8.1.0",
