@@ -1,8 +1,7 @@
 {
   "name": "minti_fulkersonV2",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://olegchobotar.github.io/minti_fulkerson",
+  "version": "0.1.1",
+  "homepage": "https://github.com/olegchobotar/minti_fulkersonV2.git",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/icons": "^4.11.2",
@@ -24,6 +23,10 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1",
     "webpack": "4.44.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olegchobotar/minti_fulkersonV2.git"
   },
   "scripts": {
     "start": "react-scripts start",
