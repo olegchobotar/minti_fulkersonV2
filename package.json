@@ -24,9 +24,6 @@
     "web-vitals": "^1.0.1",
     "webpack": "4.44.2"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/olegchobotar/minti_fulkersonV2.git"
